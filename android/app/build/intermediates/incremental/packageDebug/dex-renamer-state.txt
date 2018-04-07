@@ -1,0 +1,4 @@
+#Sat Apr 07 18:45:24 NZST 2018
+base.0=/Users/GabrielJO/Documents/study/react_natvie/my-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/GabrielJO/Documents/study/react_natvie/my-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
